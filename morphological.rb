@@ -1,7 +1,7 @@
 require 'open-uri'
 require "nokogiri"
 
-APPID = 'dj0zaiZpPVVFMTc4ZEdBOGRHeCZzPWNvbnN1bWVyc2VjcmV0Jng9OTU-'
+APPID = ''
 REQUEST_URL = "http://jlp.yahooapis.jp/MAService/V1/parse"
 
 module Morphological
